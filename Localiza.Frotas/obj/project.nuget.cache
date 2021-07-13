@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4iWMN/cuNLOKtixf52LTon1aHt1VYWZJW5pg19Gbcr73Nu9v7DjME9FtQ6sLLoPMUIsDSRcr0qUh29Fs21WO4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeffe\\RiderProjects\\Localiza.Frotas\\Localiza.Frotas\\Localiza.Frotas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

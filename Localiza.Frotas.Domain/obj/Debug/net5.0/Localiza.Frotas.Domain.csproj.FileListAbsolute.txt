@@ -1,0 +1,12 @@
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas.Domain\bin\Debug\net5.0\Localiza.Frotas.Domain.deps.json
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas.Domain\bin\Debug\net5.0\Localiza.Frotas.Domain.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas.Domain\bin\Debug\net5.0\ref\Localiza.Frotas.Domain.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas.Domain\bin\Debug\net5.0\Localiza.Frotas.Domain.pdb
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net5.0\Localiza.Frotas.Domain.csproj.AssemblyReference.cache
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net5.0\Localiza.Frotas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net5.0\Localiza.Frotas.Domain.AssemblyInfoInputs.cache
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net5.0\Localiza.Frotas.Domain.AssemblyInfo.cs
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net5.0\Localiza.Frotas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net5.0\Localiza.Frotas.Domain.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net5.0\ref\Localiza.Frotas.Domain.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net5.0\Localiza.Frotas.Domain.pdb
