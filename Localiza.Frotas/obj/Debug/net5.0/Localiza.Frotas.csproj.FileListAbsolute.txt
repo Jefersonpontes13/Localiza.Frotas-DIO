@@ -32,3 +32,17 @@ C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Lo
 C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Localiza.Frotas.Infra.pdb
 C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Localiza.Frotas.Domain.dll
 C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Localiza.Frotas.Domain.pdb
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll

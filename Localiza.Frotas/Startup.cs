@@ -15,6 +15,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Localiza.Frotas.Domain;
 using Localiza.Frotas.Infra.Repository;
+using Localiza.Frotas.Infra.Repository.EntityFrameworkRepository;
+using Microsoft.EntityFrameworkCore;
 
 namespace Localiza.Frotas
 {
@@ -40,8 +42,11 @@ namespace Localiza.Frotas
                 c.IncludeXmlComments(apiPath);
             });
 
+            services.AddTransient<IVeiculoRepository, FrotaRepository>();
+
             services.AddSingleton<SingletonContainer>();
-            services.AddSingleton<IVeiculoRepository, InMemoryRepository>();
+            services.AddDbContext<FrotaContext>(opt =>
+                opt.UseInMemoryDatabase("Frota"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
