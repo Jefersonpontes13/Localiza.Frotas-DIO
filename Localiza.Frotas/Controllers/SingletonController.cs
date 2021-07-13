@@ -1,4 +1,5 @@
-﻿using Localiza.Frotas.Infra.Singleton;
+﻿using System.Reflection.Metadata.Ecma335;
+using Localiza.Frotas.Infra.Singleton;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Localiza.Frotas.Api.Controllers
@@ -7,22 +8,20 @@ namespace Localiza.Frotas.Api.Controllers
     [ApiController]
     public class SingletonController : ControllerBase
     {
+        private readonly SingletonContainer _singletonContainer;
+
         public SingletonController(SingletonContainer singletonContainer)
         {
-            SingletonContainer = singletonContainer;
+            _singletonContainer = singletonContainer;
         }
 
-        public SingletonContainer SingletonContainer { get; }
+        //public SingletonContainer SingletonContainer { get; }
 
         // GET api/v1/<VeiculosController>/5
-        [HttpGet("{id}")]
-        public IActionResult Get(int id)
+        [HttpGet()]
+        public IActionResult Get()
         {
-            return id switch
-            {
-                1 => Ok(SingletonContainer),
-                _ => Ok(Singleton.Instance)
-            };
+            return Ok(_singletonContainer);
         }
     }
 }
