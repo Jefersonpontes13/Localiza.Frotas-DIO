@@ -30,3 +30,5 @@ C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\obj\Debug\net5.0\Lo
 C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\obj\Debug\net5.0\Localiza.Frotas.genruntimeconfig.cache
 C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Localiza.Frotas.Infra.dll
 C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Localiza.Frotas.Infra.pdb
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Localiza.Frotas.Domain.dll
+C:\Users\jeffe\RiderProjects\Localiza.Frotas\Localiza.Frotas\bin\Debug\net5.0\Localiza.Frotas.Domain.pdb

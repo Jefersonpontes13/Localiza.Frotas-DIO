@@ -13,10 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\Localiza.Frotas.Domain\Localiza.Frotas.Domain.csproj" />
     <ProjectReference Include="..\Localiza.Frotas.Infra\Localiza.Frotas.Infra.csproj" />
   </ItemGroup>
 

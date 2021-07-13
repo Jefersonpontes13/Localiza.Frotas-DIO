@@ -13,6 +13,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using Localiza.Frotas.Domain;
+using Localiza.Frotas.Infra.Repository;
 
 namespace Localiza.Frotas
 {
@@ -39,6 +41,7 @@ namespace Localiza.Frotas
             });
 
             services.AddSingleton<SingletonContainer>();
+            services.AddSingleton<IVeiculoRepository, InMemoryRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
