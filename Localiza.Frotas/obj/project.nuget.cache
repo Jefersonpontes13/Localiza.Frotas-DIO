@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8j0sUpLqUMdktRtXLG7RvXP8kYB3zsWSEwqvOF/rDWXUL43UqyhYbFuzH+kYIokmGh9REcRkJnTEHtnm6e9B8Q==",
+  "dgSpecHash": "e7Hv60s8/+w9ul0ivQ84hy2Q3+cwApsXLuB/chb53iLeGtJniD8LO4aNb5aS/7jHCCjpzIzS0WM6f01vn5tCIQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jeffe\\RiderProjects\\Localiza.Frotas\\Localiza.Frotas\\Localiza.Frotas.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0-preview.5.21301.5\\microsoft.extensions.caching.memory.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0-preview.5.21301.5\\microsoft.extensions.dependencyinjection.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0-preview.5.21301.5\\microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.extensions.http\\6.0.0-preview.5.21301.5\\microsoft.extensions.http.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0-preview.5.21301.5\\microsoft.extensions.logging.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0-preview.5.21301.5\\microsoft.extensions.logging.abstractions.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.extensions.options\\6.0.0-preview.5.21301.5\\microsoft.extensions.options.6.0.0-preview.5.21301.5.nupkg.sha512",

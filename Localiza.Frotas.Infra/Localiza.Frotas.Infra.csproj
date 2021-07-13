@@ -10,6 +10,7 @@
 
     <ItemGroup>
       <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.0-preview.5.21301.9" />
+      <PackageReference Include="Microsoft.Extensions.Http" Version="6.0.0-preview.5.21301.5" />
     </ItemGroup>
 
 </Project>

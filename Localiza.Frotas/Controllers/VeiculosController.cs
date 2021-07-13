@@ -10,10 +10,12 @@ namespace Localiza.Frotas.Api.Controllers
     public class VeiculosController : ControllerBase
     {
         private readonly IVeiculoRepository _veiculoRepository;
+        private readonly IveiculoDetran _veiculoDetran;
 
-        public VeiculosController(IVeiculoRepository veiculoRepository)
+        public VeiculosController(IVeiculoRepository veiculoRepository, IveiculoDetran veiculoDetran)
         {
             this._veiculoRepository = veiculoRepository;
+            this._veiculoDetran = veiculoDetran;
         }
 
         [HttpGet]
@@ -61,6 +63,13 @@ namespace Localiza.Frotas.Api.Controllers
             
             _veiculoRepository.Delete(veiculo);
 
+            return NoContent();
+        }
+
+        [HttpPut("{id}/vistoria")]
+        public IActionResult Put(Guid id)
+        {
+            _veiculoDetran.AgendarVistoriaDetran(id);
             return NoContent();
         }
     }

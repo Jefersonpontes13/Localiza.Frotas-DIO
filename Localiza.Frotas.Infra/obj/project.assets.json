@@ -100,6 +100,21 @@
           "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         }
       },
+      "Microsoft.Extensions.Http/6.0.0-preview.5.21301.5": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0-preview.5.21301.5",
+          "Microsoft.Extensions.Logging": "6.0.0-preview.5.21301.5",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0-preview.5.21301.5",
+          "Microsoft.Extensions.Options": "6.0.0-preview.5.21301.5"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {}
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0-preview.5.21301.5": {
         "type": "package",
         "dependencies": {
@@ -350,6 +365,24 @@
         "microsoft.extensions.dependencyinjection.abstractions.nuspec"
       ]
     },
+    "Microsoft.Extensions.Http/6.0.0-preview.5.21301.5": {
+      "sha512": "uNp+/Ld6glwwVPbnlmvA7EU79bQzbMArIgcGhXVadj0UC1XtKaLw7sTf2m6ffNOaWrpCYFsNxyZzR9BZnDDFgQ==",
+      "type": "package",
+      "path": "microsoft.extensions.http/6.0.0-preview.5.21301.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Http.dll",
+        "lib/net461/Microsoft.Extensions.Http.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Http.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Http.xml",
+        "microsoft.extensions.http.6.0.0-preview.5.21301.5.nupkg.sha512",
+        "microsoft.extensions.http.nuspec"
+      ]
+    },
     "Microsoft.Extensions.Logging/6.0.0-preview.5.21301.5": {
       "sha512": "qdSkGj5A4JOd5CBg187mKXmcy6H30E3yrjLlKeCsXfqRVJyvdasjWSnFMYyMO05TPf5+eBKBY44qftAYRZ2nTA==",
       "type": "package",
@@ -589,7 +622,8 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Localiza.Frotas.Domain >= 1.0.0",
-      "Microsoft.EntityFrameworkCore.InMemory >= 6.0.0-preview.5.21301.9"
+      "Microsoft.EntityFrameworkCore.InMemory >= 6.0.0-preview.5.21301.9",
+      "Microsoft.Extensions.Http >= 6.0.0-preview.5.21301.5"
     ]
   },
   "packageFolders": {
@@ -638,6 +672,10 @@
           "Microsoft.EntityFrameworkCore.InMemory": {
             "target": "Package",
             "version": "[6.0.0-preview.5.21301.9, )"
+          },
+          "Microsoft.Extensions.Http": {
+            "target": "Package",
+            "version": "[6.0.0-preview.5.21301.5, )"
           }
         },
         "imports": [
